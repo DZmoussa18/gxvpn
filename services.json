@@ -274,11 +274,6 @@
     "config": "vless://692ece70-c136-4f77-8921-1e99091b9987@ssssssss.zabc.net:8443?encryption=none&security=tls&sni=ssssssss.zabc.net&alpn=h3&allowInsecure=1&type=ws&host=ssssssss.zabc.net&path=%2F#\uD83C\uDDFA\uD83C\uDDF8[openproxylist.com] vless-US",
     "countryCode": "cr"
   },
-   {
-    "name": "vless 4",
-    "config": "vless://289f0d70-5985-46e9-b05a-9f66f821f47d@diana.ns.cloudflare.com:443?flow=&type=ws&host=all1azar.darolmajanin.com&path=/assets?ed%3D512&security=tls&sni=all1azar.darolmajanin.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸[openproxylist.com] vless-US",
-    "countryCode": "cr"
-  },
   {
     "name": "hy2 test1",
     "config": "hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1#All-%40V2rayAlpha--33",
