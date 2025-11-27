@@ -294,22 +294,12 @@
     "config": "vmess://eyAidiI6ICIyIiwgInBzIjogIlZNLTAtMy1kZWJpYW4gdm1lc3Mtd3MiLCAiYWRkIjogInNray5tb2UiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI5MDJlODQ1My01NzFjLTRlZTAtODYxNS1kYTA2YTgxMGQ0ZDIiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogInZvdGVycy1yZWNvcmRlci1wb3N0YWwtbGFwdG9wcy50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi85MDJlODQ1My01NzFjLTRlZTAtODYxNS1kYTA2YTgxMGQ0ZDItdm1lc3MiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiB9",
     "countryCode": "cr"
   },
-  {
+ {
     "name": "trojan 1",
-    "config": "trojan://ef374eba-c0ef-41bd-813e-555c0e32b497@43.162.116.146:8886/?type=tcp&security=tls&sni=d2r1yp2w7bby2u.cloudfront.net&allowInsecure=1#VM-0-2-debian%20trojan",
-    "countryCode": "cr"
-  },
-  {
-    "name": "trojan 2",
     "config": "trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#\uD83C\uDDED\uD83C\uDDF0[openproxylist.com] trojan-HK",
     "countryCode": "cr"
   },
-  {
-    "name": "trojan 3",
-    "config": "trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#Argentina%20Koupu%20cloud",
-    "countryCode": "cr"
-  },
-  {
+ {
     "name": "CANADA",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp",
     "countryCode": "ca"
