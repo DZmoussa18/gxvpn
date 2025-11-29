@@ -290,11 +290,6 @@
     "countryCode": "cr"
   },
   {
-    "name": "vmess test2",
-    "config": "vmess://eyJhZGQiOiJmci12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYWNlYm9vay5jb20iLCJpZCI6ImQ2ZDk2ZjY5LTRlNTctNGQ4Ny1hM2RlLWU5OTY0MjVhMGI1MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTUiLCJwcyI6ImZyLXYycmF5LmlwcmFjZXZwbi5jb20tYTY5ZXNyamciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9",
-    "countryCode": "cr"
-  },
-  {
     "name": "vmess test1",
     "config": "vmess://eyAidiI6ICIyIiwgInBzIjogIlZNLTAtMy1kZWJpYW4gdm1lc3Mtd3MiLCAiYWRkIjogInNray5tb2UiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI5MDJlODQ1My01NzFjLTRlZTAtODYxNS1kYTA2YTgxMGQ0ZDIiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogInZvdGVycy1yZWNvcmRlci1wb3N0YWwtbGFwdG9wcy50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi85MDJlODQ1My01NzFjLTRlZTAtODYxNS1kYTA2YTgxMGQ0ZDItdm1lc3MiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiB9",
     "countryCode": "cr"
